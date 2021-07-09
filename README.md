@@ -3,4 +3,4 @@
 <p><samp>Full-Stack web student at <a href="https://4geeksacademy.com/">4Geeks Academy</a></samp>:mortar_board:</p>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanovic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanovic&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
