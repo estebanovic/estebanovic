@@ -3,7 +3,7 @@
 <p><samp>
   :mortar_board: I studied Java Web Development at <a href="https://eggeducacion.com/">Egg Education</a> & Full Stack Web Development at <a href="https://4geeksacademy.com/">4Geeks Academy.</a>
   <br/>
-  :closed_book: Learning React, Flask and Spring Framework.</samp>
+  :closed_book: Learning Node.JS, React.JS, Flask and Spring Framework.</samp>
   <br/>
   :video_game: My favorite hobbies are making small games and 3d models.
  </samp></p>
