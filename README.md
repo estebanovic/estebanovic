@@ -1,7 +1,7 @@
 <h2><samp> Hi there, I'm Esteban Obilinovic 👋 </samp></h2>
 
 <p><samp>
-  :mortar_board: I'm currently studying full stack web development at <a href="https://4geeksacademy.com/">4Geeks Academy.</a>
+  :mortar_board: I studied Java Web Development at <a href="https://eggeducacion.com/">Egg Education</a> & Full Stack Web Development at <a href="https://4geeksacademy.com/">4Geeks Academy.</a>
   <br/>
   :closed_book: Learning React, Flask and Spring Framework.</samp>
   <br/>
