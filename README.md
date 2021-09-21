@@ -5,7 +5,7 @@
   <br/>
   :closed_book: Learning Node.JS, React.JS, Flask and Spring Framework.</samp>
   <br/>
-  :video_game: My favorite hobbies are making small games and 3d models.
+  :video_game: My favorite hobbies are making small games in unity and 3d models.
  </samp></p>
 <br/>
 
