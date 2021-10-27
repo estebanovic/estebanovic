@@ -9,5 +9,8 @@
  </samp></p>
 <br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanovic&layout=compact&bg_color=10,e96443,904e95&text_color=f9f5fa&title_color=f9f5fa&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<a href="https://github.com/zero-skill?tab=repositories">
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=estebanovic&layout=compact&bg_color=10,e96443,904e95&text_color=f9f5fa&title_color=f9f5fa&hide=css" />
+  </a>
+</div>
