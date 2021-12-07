@@ -1,16 +1,6 @@
-<h2><samp> Hi there, I'm Esteban Obilinovic 👋 </samp></h2>
-
-<p><samp>
-  :mortar_board: I studied Java Web Development at <a href="https://eggeducacion.com/">Egg Education</a> & Full Stack Web Development at <a href="https://4geeksacademy.com/">4Geeks Academy.</a>
-  <br/>
-  :closed_book: Learning Node.JS, React.JS, Flask and Spring Framework.</samp>
-  <br/>
-  :video_game: My favorite hobbies are making small games in unity and 3d models.
- </samp></p>
-<br/>
-
-<div align="center">
-<a href="https://github.com/estebanovic?tab=repositories">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=estebanovic&layout=compact&bg_color=10,e96443,904e95&text_color=f9f5fa&title_color=f9f5fa&hide=css" />
-  </a>
-</div>
+# Hi there:wave:, I'm Esteban Obilinovic
+- :desktop_computer: I'm working as a junior full-stack developer at [DCanje](https://dcanje.cl/).
+- :books: Currently learning Angular and GraphQL.
+- :man_student: I studied Java Web Development at [Egg Education](https://eggeducacion.com/es-CL/) & Full Stack Web Development at [4Geeks Academy](https://4geeksacademy.com/).
+- :video_game: My favorite hobbies are creating little video games, playing and watching soccer and going for a walk.
+- :speech_balloon: You can contact on [linkedin](https://www.linkedin.com/in/esteban-obilinovic/).
